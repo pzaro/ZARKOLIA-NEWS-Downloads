@@ -1,0 +1,19 @@
+{
+  "app": "ZARKOLIA NEWS",
+  "schema_version": 1,
+  "language": "el-GR",
+  "distribution": "GitHub Releases",
+  "android": {
+    "latest_stable": null,
+    "beta": null,
+    "updates_require_user_confirmation": true,
+    "store": "Not published"
+  },
+  "windows": {
+    "latest_stable": null,
+    "beta": null,
+    "automatic_updater_available": false
+  },
+  "releases_url": "https://github.com/pzaro/ZARKOLIA-NEWS-Downloads/releases",
+  "notes": "No stable release yet. Debug builds must not be presented as production releases."
+}
