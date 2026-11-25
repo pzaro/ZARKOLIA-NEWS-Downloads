@@ -1,0 +1,2 @@
+cfdc4ff3dc1fe0ffae3846024df25eb0ad335e3d4fde1da24323cc5739246f74  downloads/ZARKOLIA_NEWS_Desktop_v1.2_BETA.zip
+606f80324366b4e751561b0ddc2985f3c529a6379c3fa6a378b0700025cd2bf2  downloads/ZARKOLIA_NEWS_Android_v1.0_BETA.apk
