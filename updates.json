@@ -2,18 +2,30 @@
   "app": "ZARKOLIA NEWS",
   "schema_version": 1,
   "language": "el-GR",
-  "distribution": "GitHub Releases",
+  "distribution": "GitHub public beta downloads",
   "android": {
     "latest_stable": null,
-    "beta": null,
-    "updates_require_user_confirmation": true,
-    "store": "Not published"
+    "beta": {
+      "version": "1.0",
+      "channel": "beta",
+      "file": "ZARKOLIA_NEWS_Android_v1.0_BETA.apk",
+      "url": "https://raw.githubusercontent.com/pzaro/ZARKOLIA-NEWS-Downloads/main/downloads/ZARKOLIA_NEWS_Android_v1.0_BETA.apk",
+      "sha256": "606f80324366b4e751561b0ddc2985f3c529a6379c3fa6a378b0700025cd2bf2",
+      "install_method": "Android package installer; user confirmation required",
+      "production_signed": false
+    }
   },
   "windows": {
     "latest_stable": null,
-    "beta": null,
-    "automatic_updater_available": false
+    "beta": {
+      "version": "1.2",
+      "channel": "beta",
+      "file": "ZARKOLIA_NEWS_Desktop_v1.2_BETA.zip",
+      "url": "https://raw.githubusercontent.com/pzaro/ZARKOLIA-NEWS-Downloads/main/downloads/ZARKOLIA_NEWS_Desktop_v1.2_BETA.zip",
+      "sha256": "cfdc4ff3dc1fe0ffae3846024df25eb0ad335e3d4fde1da24323cc5739246f74",
+      "requires_python": true
+    }
   },
   "releases_url": "https://github.com/pzaro/ZARKOLIA-NEWS-Downloads/releases",
-  "notes": "No stable release yet. Debug builds must not be presented as production releases."
+  "notes": "Beta binaries only. The existing apps do NOT automatically poll or install updates yet. Private source remains separate."
 }
